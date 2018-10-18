@@ -30,7 +30,7 @@ Note : run the test in different terminal while it running the app
 
 * [Ant design](https://ant.design) - The web UI framework used
 * [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router. (Inspired by elm and choo)
-* [MockJs] (http://mockjs.com/) - Generate random data to intercept Ajax requests
+* [MockJs](http://mockjs.com/) - Generate random data to intercept Ajax requests
 * [cypress](https://www.cypress.io/) -A complete end-to-end testing framework
 
 ## Notes to reviewer
