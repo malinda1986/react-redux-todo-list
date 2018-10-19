@@ -33,11 +33,6 @@ Note : run the test in different terminal while app is running
 * [MockJs](http://mockjs.com/) - Generate random data to intercept Ajax requests
 * [cypress](https://www.cypress.io/) -A complete end-to-end testing framework
 
-## Notes to reviewer
-* use admin/ admin as uername and password
-* data does not persit to a db, I have used mock js to get random data and auth flow. date stored in app state
-* haven't covered all the test secnarios. it just only the 4 test cases. I can cover all the flows with more time
-* I used ant UI boilerplate to start the app, please note that not all files are written by me :)
 
 
 
