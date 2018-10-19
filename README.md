@@ -24,7 +24,7 @@ Note : run ```npm run build``` to get the prod. build. then it needs to have the
 * it will open the cypress ui to select the test cases
 * select required test cases to be run
 
-Note : run the test in different terminal while it running the app
+Note : run the test in different terminal while app is running
 
 ## Built With
 
